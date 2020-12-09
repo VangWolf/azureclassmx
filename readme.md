@@ -4,6 +4,8 @@
 </p>
 
 <h3 align="center">Vanilla JavaScript App</h3>
+<h3 align="center">Link de mi StaticAzure Ivan Mendoza</h3>
+<h2 align="center">https://polite-stone-01b1e8c10.azurestaticapps.net/</h2>
 
 <div align="center">
 
